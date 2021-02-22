@@ -1,6 +1,8 @@
 # necogo
-- Webページのテキストを猫語に変換するブラウザ拡張機能です。
-- Google Chrome と Microsoft Edge で使うことができます。
+- あらゆるWebページのテキストを猫語に変換するブラウザ拡張機能です。
+    - もしかしたらうまく動かないページもあるかもしれません
+- PC(Windows/Mac)のGoogle Chrome と Microsoft Edge で使うことができると思います。
+    - Macは試してません
 
 - ダウンロード方法
     - このページの右上の緑のCodeボタンから Download ZIP を選択し、Zipファイルを展開（解凍）
